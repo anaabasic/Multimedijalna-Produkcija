@@ -620,7 +620,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Multimedijalna produkcija\n\nIgrica Auto-trke\n\nUnity\n\nTamara Bakić\nAna 
-    Bašić\nAleksa Božanić\nMarko Mišović\u0107\n\nDu\u0161an Mitrovi\u0107"
+    Bašić\nAleksa Božanić\nMarko Mišović"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
