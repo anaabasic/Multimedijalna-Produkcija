@@ -115,6 +115,14 @@
             "defaultInstantiationMode": 0,
             "supportsModification": true
         },
+       
+        {
+            "userAdded": false,
+            "type": "UnityEngine.ShaderVariantCollection",
+            "ignore": true,
+            "defaultInstantiationMode": 1,
+            "supportsModification": true
+        },
         {
             "userAdded": false,
             "type": "UnityEditor.SceneAsset",
@@ -125,13 +133,6 @@
         {
             "userAdded": false,
             "type": "UnityEngine.Shader",
-            "ignore": true,
-            "defaultInstantiationMode": 1,
-            "supportsModification": true
-        },
-        {
-            "userAdded": false,
-            "type": "UnityEngine.ShaderVariantCollection",
             "ignore": true,
             "defaultInstantiationMode": 1,
             "supportsModification": true
