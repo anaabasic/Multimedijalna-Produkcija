@@ -72,20 +72,7 @@
              "defaultInstantiationMode": 0,
              "supportsModification": true
         },
-        {
-            "userAdded": false,
-            "type": "UnityEngine.PhysicMaterial",
-            "ignore": false,
-            "defaultInstantiationMode": 0,
-            "supportsModification": true
-        },
-        {
-            "userAdded": false,
-            "type": "UnityEditor.MonoScript",
-            "ignore": true,
-            "defaultInstantiationMode": 1,
-            "supportsModification": true
-        },
+       
         {
             "userAdded": false,
             "type": "UnityEngine.PhysicsMaterial2D",
@@ -105,6 +92,20 @@
             "type": "UnityEngine.Rendering.PostProcessing.PostProcessResources",
             "ignore": false,
             "defaultInstantiationMode": 0,
+            "supportsModification": true
+        },
+        {
+            "userAdded": false,
+            "type": "UnityEngine.PhysicMaterial",
+            "ignore": false,
+            "defaultInstantiationMode": 0,
+            "supportsModification": true
+        },
+        {
+            "userAdded": false,
+            "type": "UnityEditor.MonoScript",
+            "ignore": true,
+            "defaultInstantiationMode": 1,
             "supportsModification": true
         },
         {
