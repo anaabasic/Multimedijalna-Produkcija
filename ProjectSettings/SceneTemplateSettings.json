@@ -2,11 +2,12 @@
     "templatePinStates": [],
     "dependencyTypeInfos": [
         {
-            "userAdded": false,
-            "type": "UnityEngine.AnimationClip",
-            "ignore": false,
-            "defaultInstantiationMode": 0,
-            "supportsModification": true
+
+             "userAdded": false,
+             "type": "UnityEngine.AnimationClip",
+             "ignore": false,
+             "defaultInstantiationMode": 0,
+             "supportsModification": true
         },
         {
             "userAdded": false,
@@ -65,8 +66,15 @@
             "supportsModification": true
         },
         {
+             "userAdded": false,
+             "type": "UnityEngine.Material",
+             "ignore": false,
+             "defaultInstantiationMode": 0,
+             "supportsModification": true
+        },
+        {
             "userAdded": false,
-            "type": "UnityEngine.Material",
+            "type": "UnityEngine.PhysicMaterial",
             "ignore": false,
             "defaultInstantiationMode": 0,
             "supportsModification": true
@@ -76,13 +84,6 @@
             "type": "UnityEditor.MonoScript",
             "ignore": true,
             "defaultInstantiationMode": 1,
-            "supportsModification": true
-        },
-        {
-            "userAdded": false,
-            "type": "UnityEngine.PhysicMaterial",
-            "ignore": false,
-            "defaultInstantiationMode": 0,
             "supportsModification": true
         },
         {
